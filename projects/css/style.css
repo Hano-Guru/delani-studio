@@ -5,8 +5,12 @@
     border: 5px solid:gray;
 }  */
 . h1{
+   
+}
+.one{ 
     background-color: darkblue;
     text-align: center;
     text-decoration: darkmagenta;
     border: 5px;
+
 }

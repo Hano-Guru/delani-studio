@@ -12,7 +12,7 @@ HTML
 CSS
 Git
 ## project set up installatioN
-
+You can get it on git-hub. From the repository, click + in the global sidebar and select Clone this repository. Copy the https. From terminal use $ git clone ...
 
 ## BDD
 BEHAVIOR         
@@ -22,7 +22,8 @@ user fill and confarm and at end summit
   user view the page 
   once 
 
-## Link live
+## Link live 
+use the link to see the page
 
 
 ## contract information
@@ -33,3 +34,4 @@ bashiromar94@gmail.com
 
 
 
+hanad@hanad-Lenovo-ideapad-130-15IKB:~/Documenojects$ 
