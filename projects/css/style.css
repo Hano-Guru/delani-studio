@@ -8,10 +8,8 @@
    
 }
 .one{ 
-    background-color: darkblue;
     text-align: center;
-    text-decoration: darkmagenta;
-    border: 5px;
+    
 
 }
 .all{
@@ -26,3 +24,8 @@
 }
 .hano{
     text-align: center;
+    
+}
+#babu{background-image: url(/img/h_img.jpg);
+
+}
