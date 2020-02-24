@@ -27,5 +27,13 @@
     
 }
 #babu{background-image: url(/img/h_img.jpg);
-
+background-size: cover;
+}
+#service{
+    background-image: url(/img/s_image.jpg) ;   
+    color: white;
+}
+.fly{
+    margin-top: 100px;
+    padding-left: 500px;
 }
