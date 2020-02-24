@@ -33,7 +33,10 @@ background-size: cover;
     background-image: url(/img/s_image.jpg) ;   
     color: white;
 }
-.fly{
-    margin-top: 100px;
-    padding-left: 500px;
+
+
+.text-wrapper{
+ color: white;
+ text-align: center;
+   
 }
