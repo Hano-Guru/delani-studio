@@ -16,9 +16,13 @@
 }
 .all{
     display: none;
-}#about-us{
+    
+/* }#about-us{
     text-align: center;
 }
-#servise{
+#servises{
     text-align: center;
+} */
 }
+.hano{
+    text-align: center;
