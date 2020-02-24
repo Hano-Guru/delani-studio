@@ -3,4 +3,10 @@ $(document).ready(function() {
       $("#hanad").toggle();
       
     });
-  });
+    $("#nana").click(function() {
+    $("#abass").toggle();
+    })
+    $("product management").click(function(){
+        $("#ali").toggle();
+    })
+  })
