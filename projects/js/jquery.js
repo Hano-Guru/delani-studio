@@ -6,7 +6,7 @@ $(document).ready(function() {
     $("#nana").click(function() {
     $("#abass").toggle();
     })
-    $("product management").click(function(){
+    $("#product-management").click(function() {
         $("#ali").toggle();
     })
-  })
+  });
