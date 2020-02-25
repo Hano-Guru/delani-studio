@@ -32,6 +32,8 @@ background-size: cover;
 #service{
     background-image: url(/img/s_image.jpg) ;   
     color: white;
+    background-size: cover;
+
 }
 
 
@@ -39,4 +41,5 @@ background-size: cover;
  color: white;
  text-align: center;
    
+
 }
