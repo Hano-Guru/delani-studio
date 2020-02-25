@@ -4,9 +4,7 @@
     text-decoration: chartreuse;
     border: 5px solid:gray;
 }  */
-. h1{
-   
-}
+
 .one{ 
     text-align: center;
     
@@ -42,4 +40,7 @@ background-size: cover;
  text-align: center;
    
 
+}
+.contact-us{
+    background-image: url(img/c_image.jpg);
 }
