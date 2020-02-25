@@ -24,11 +24,11 @@
     text-align: center;
     
 }
-#babu{background-image: url(/img/h_img.jpg);
+#babu{background-image: url(img/h_img.jpg);
 background-size: cover;
 }
 #service{
-    background-image: url(/img/s_image.jpg) ;   
+    background-image: url(img/s_image.jpg) ;   
     color: white;
     background-size: cover;
 
@@ -42,7 +42,7 @@ background-size: cover;
 
 }
 .ali{
-    background-image: url(/img/c_image.jpg);
+    background-image: url(img/c_image.jpg);
 }
 ::placeholder{
     color: white;
