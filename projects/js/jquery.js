@@ -7,6 +7,6 @@ $(document).ready(function () {
     $("#abass").toggle();
   })
   $("#product-management").click(function () {
-    $("#ali").toggle();
+    $("#ali").hide();
   })
 });
